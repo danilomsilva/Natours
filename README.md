@@ -12,4 +12,4 @@ Semantic HTML, advanced techniques using CSS and Sass, use of flexbox, grid, med
 Fork the repository, extract the files and then open: `index.html`
 
 ### Live preview
-Alternatively, you can visualize the project by clicking in this link: https://danilomsilva-natours.netlify.app/ 
+Alternatively, you can visualize the project by clicking on this link: https://danilomsilva-natours.netlify.app/ 
